@@ -10,5 +10,6 @@ leetcode for golang
 #### [6. zigzag conversion](https://github.com/hitzzc/go-leetcode/tree/master/zigzag_conversion)
 #### [7. reverse integer](https://github.com/hitzzc/go-leetcode/tree/master/reverse_integer)
 #### [8. string to integer](https://github.com/hitzzc/go-leetcode/tree/master/string_to_integer)
+#### [9. palindrome number](https://github.com/hitzzc/go-leetcode/tree/master/palindrome_number)
 
 

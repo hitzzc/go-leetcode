@@ -9,5 +9,6 @@ leetcode for golang
 #### [5. longest palindromic substring](https://github.com/hitzzc/go-leetcode/tree/master/longest_palindromic_substring)
 #### [6. zigzag conversion](https://github.com/hitzzc/go-leetcode/tree/master/zigzag_conversion)
 #### [7. reverse integer](https://github.com/hitzzc/go-leetcode/tree/master/reverse_integer)
+#### [8. string to integer](https://github.com/hitzzc/go-leetcode/tree/master/string_to_integer)
 
 

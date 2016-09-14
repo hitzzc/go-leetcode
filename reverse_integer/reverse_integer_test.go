@@ -17,7 +17,7 @@ func TestReverse(t *testing.T) {
 		-321,
 		0,
 		-1,
-		9646324351,
+		0,
 	}
 	caseNum := 5
 	for i := 0; i < caseNum; i++ {

@@ -12,5 +12,6 @@ leetcode for golang
 #### [8. string to integer](https://github.com/hitzzc/go-leetcode/tree/master/string_to_integer)
 #### [9. palindrome number](https://github.com/hitzzc/go-leetcode/tree/master/palindrome_number)
 #### [11. container with most water](https://github.com/hitzzc/go-leetcode/tree/master/container_with_most_water)
+#### [12. integer to roman](https://github.com/hitzzc/go-leetcode/tree/master/integer_to_roman)
 
 

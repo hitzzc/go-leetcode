@@ -16,6 +16,6 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [13. roman to integer](https://github.com/hitzzc/go-leetcode/tree/master/roman_to_integer)
 #### [14. longest common prefix](https://github.com/hitzzc/go-leetcode/tree/master/longest_common_prefix)
 #### [15. 3sum](https://github.com/hitzzc/go-leetcode/tree/master/three_sum)
-#### [15. 3sum closest](https://github.com/hitzzc/go-leetcode/tree/master/three_sum_closest)
+#### [16. 3sum closest](https://github.com/hitzzc/go-leetcode/tree/master/three_sum_closest)
 
 

@@ -1,6 +1,6 @@
 go-leetcode
 ===
-leetcode for golang
+Golang solution for leetcode. For each problem, there is a simple *_test.go to test the solution, and you can run `go test` under corresponding folder.  
 
 #### [1. two sum](https://github.com/hitzzc/go-leetcode/tree/master/two_sum)
 #### [2. add two numbers](https://github.com/hitzzc/go-leetcode/tree/master/add_two_numbers)

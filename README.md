@@ -14,5 +14,6 @@ leetcode for golang
 #### [11. container with most water](https://github.com/hitzzc/go-leetcode/tree/master/container_with_most_water)
 #### [12. integer to roman](https://github.com/hitzzc/go-leetcode/tree/master/integer_to_roman)
 #### [13. roman to integer](https://github.com/hitzzc/go-leetcode/tree/master/roman_to_integer)
+#### [14. longest common prefix](https://github.com/hitzzc/go-leetcode/tree/master/longest_common_prefix)
 
 

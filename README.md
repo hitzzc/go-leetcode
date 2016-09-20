@@ -27,5 +27,6 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [24. swap nodes in pairs](https://github.com/hitzzc/go-leetcode/tree/master/swap_nodes_in_pairs)
 #### [25. reverse nodes in k group](https://github.com/hitzzc/go-leetcode/tree/master/reverse_nodes_in_k_group)
 #### [26. Remove Duplicates from Sorted Array](https://github.com/hitzzc/go-leetcode/tree/master/remove_duplicates_from_sorted_array)
+#### [27. Remove Element](https://github.com/hitzzc/go-leetcode/tree/master/remove_element)
 
 

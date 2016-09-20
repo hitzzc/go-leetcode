@@ -20,5 +20,6 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [17. letter combinations of a phone number](https://github.com/hitzzc/go-leetcode/tree/master/letter_combinations_of_a_phone_number)
 #### [18. 4sum](https://github.com/hitzzc/go-leetcode/tree/master/four_sum)
 #### [19. remove nth node from end of list](https://github.com/hitzzc/go-leetcode/tree/master/remove_nth_node_from_end_of_list)
+#### [20. valid parentheses](https://github.com/hitzzc/go-leetcode/tree/master/valid_parentheses)
 
 

@@ -24,5 +24,6 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [21. merge two sorted lists](https://github.com/hitzzc/go-leetcode/tree/master/merge_two_sorted_lists)
 #### [22. generate parentheses](https://github.com/hitzzc/go-leetcode/tree/master/generate_parentheses)
 #### [23. merge k sorted lists](https://github.com/hitzzc/go-leetcode/tree/master/merge_k_sorted_lists)
+#### [24. swap nodes in pairs](https://github.com/hitzzc/go-leetcode/tree/master/swap_nodes_in_pairs)
 
 

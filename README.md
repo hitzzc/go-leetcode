@@ -21,5 +21,6 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [18. 4sum](https://github.com/hitzzc/go-leetcode/tree/master/four_sum)
 #### [19. remove nth node from end of list](https://github.com/hitzzc/go-leetcode/tree/master/remove_nth_node_from_end_of_list)
 #### [20. valid parentheses](https://github.com/hitzzc/go-leetcode/tree/master/valid_parentheses)
+#### [21. merge two sorted lists](https://github.com/hitzzc/go-leetcode/tree/master/merge_two_sorted_lists)
 
 

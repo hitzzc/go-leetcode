@@ -30,5 +30,6 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [27. Remove Element](https://github.com/hitzzc/go-leetcode/tree/master/remove_element)
 #### [31. Next Permutation](https://github.com/hitzzc/go-leetcode/tree/master/next_permutation)
 #### [32. longest valid parentheses](https://github.com/hitzzc/go-leetcode/tree/master/longest_valid_parentheses)
+#### [33. search in rotated sorted array](https://github.com/hitzzc/go-leetcode/tree/master/search_in_rotated_sorted_array)
 
 

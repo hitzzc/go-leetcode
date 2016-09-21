@@ -37,5 +37,6 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [38. count and say](https://github.com/hitzzc/go-leetcode/tree/master/count_and_say)
 #### [39. combination sum](https://github.com/hitzzc/go-leetcode/tree/master/combination_sum)
 #### [40. combination sum ii](https://github.com/hitzzc/go-leetcode/tree/master/combination_sum_II)
+#### [41. first missing positive](https://github.com/hitzzc/go-leetcode/tree/master/first_missing_positive)
 
 

@@ -33,5 +33,6 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [33. search in rotated sorted array](https://github.com/hitzzc/go-leetcode/tree/master/search_in_rotated_sorted_array)
 #### [34. search for a range](https://github.com/hitzzc/go-leetcode/tree/master/search_for_a_range)
 #### [35. search insert position](https://github.com/hitzzc/go-leetcode/tree/master/search_insert_position)
+#### [36. valid sudoku](https://github.com/hitzzc/go-leetcode/tree/master/valid_sudoku)
 
 

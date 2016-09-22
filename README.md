@@ -39,4 +39,5 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [40. combination sum ii](https://github.com/hitzzc/go-leetcode/tree/master/combination_sum_II)
 #### [41. first missing positive](https://github.com/hitzzc/go-leetcode/tree/master/first_missing_positive)
 #### [42. trapping rain water](https://github.com/hitzzc/go-leetcode/tree/master/trapping_rain_water)
+#### [43. multiply strings](https://github.com/hitzzc/go-leetcode/tree/master/multiply_strings)
 

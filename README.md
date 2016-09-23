@@ -43,4 +43,5 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [46. permutations](https://github.com/hitzzc/go-leetcode/tree/master/permutations)
 #### [47. permutations II](https://github.com/hitzzc/go-leetcode/tree/master/permutations_II)
 #### [48. rotate image](https://github.com/hitzzc/go-leetcode/tree/master/rotate_image)
+#### [49. group anagrams](https://github.com/hitzzc/go-leetcode/tree/master/group_anagrams)
 

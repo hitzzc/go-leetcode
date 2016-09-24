@@ -47,5 +47,16 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [50. pow(x,n)](https://github.com/hitzzc/go-leetcode/tree/master/pow_x_n)
 #### [51. n queens](https://github.com/hitzzc/go-leetcode/tree/master/n_queens)
 #### [52. n queens II](https://github.com/hitzzc/go-leetcode/tree/master/n_queens_II)
-#### [52. maximum subarray](https://github.com/hitzzc/go-leetcode/tree/master/maximum_subarray)
+#### [53. maximum subarray](https://github.com/hitzzc/go-leetcode/tree/master/maximum_subarray)
+#### [54. spiral matrix](https://github.com/hitzzc/go-leetcode/tree/master/spiral_matrix)
+
+
+
+
+
+
+
+
+
+
 

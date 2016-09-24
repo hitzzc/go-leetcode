@@ -46,5 +46,6 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [49. group anagrams](https://github.com/hitzzc/go-leetcode/tree/master/group_anagrams)
 #### [50. pow(x,n)](https://github.com/hitzzc/go-leetcode/tree/master/pow_x_n)
 #### [51. n queens](https://github.com/hitzzc/go-leetcode/tree/master/n_queens)
-#### [51. n queens II](https://github.com/hitzzc/go-leetcode/tree/master/n_queens_II)
+#### [52. n queens II](https://github.com/hitzzc/go-leetcode/tree/master/n_queens_II)
+#### [52. maximum subarray](https://github.com/hitzzc/go-leetcode/tree/master/maximum_subarray)
 

@@ -45,5 +45,6 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [48. rotate image](https://github.com/hitzzc/go-leetcode/tree/master/rotate_image)
 #### [49. group anagrams](https://github.com/hitzzc/go-leetcode/tree/master/group_anagrams)
 #### [50. pow(x,n)](https://github.com/hitzzc/go-leetcode/tree/master/pow_x_n)
-#### [51. n_queens](https://github.com/hitzzc/go-leetcode/tree/master/n_queens)
+#### [51. n queens](https://github.com/hitzzc/go-leetcode/tree/master/n_queens)
+#### [51. n queens II](https://github.com/hitzzc/go-leetcode/tree/master/n_queens_II)
 

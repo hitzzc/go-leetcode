@@ -49,6 +49,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [52. n queens II](https://github.com/hitzzc/go-leetcode/tree/master/n_queens_II)
 #### [53. maximum subarray](https://github.com/hitzzc/go-leetcode/tree/master/maximum_subarray)
 #### [54. spiral matrix](https://github.com/hitzzc/go-leetcode/tree/master/spiral_matrix)
+#### [55. jump game](https://github.com/hitzzc/go-leetcode/tree/master/jump_game)
 
 
 

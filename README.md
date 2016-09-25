@@ -53,6 +53,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [58. length of last word](https://github.com/hitzzc/go-leetcode/tree/master/length_of_last_word)
 #### [59. spiral matrix II](https://github.com/hitzzc/go-leetcode/tree/master/spiral_matrix_II)
 #### [60. permutation sequence](https://github.com/hitzzc/go-leetcode/tree/master/permutation_sequence)
+#### [61. rotate list](https://github.com/hitzzc/go-leetcode/tree/master/rotate_list)
 
 
 

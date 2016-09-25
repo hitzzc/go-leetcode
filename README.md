@@ -59,6 +59,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [64. minimum path sum](https://github.com/hitzzc/go-leetcode/tree/master/minimum_path_sum)
 #### [65. valid number](https://github.com/hitzzc/go-leetcode/tree/master/valid_number)
 #### [66. plus one](https://github.com/hitzzc/go-leetcode/tree/master/plus_one)
+#### [67. add binary](https://github.com/hitzzc/go-leetcode/tree/master/add_binary)
 
 
 

@@ -56,6 +56,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [61. rotate list](https://github.com/hitzzc/go-leetcode/tree/master/rotate_list)
 #### [62. unique paths](https://github.com/hitzzc/go-leetcode/tree/master/unique_paths)
 #### [63. unique paths II](https://github.com/hitzzc/go-leetcode/tree/master/unique_paths_II)
+#### [64. minimum path sum](https://github.com/hitzzc/go-leetcode/tree/master/minimum_path_sum)
 
 
 

@@ -54,6 +54,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [59. spiral matrix II](https://github.com/hitzzc/go-leetcode/tree/master/spiral_matrix_II)
 #### [60. permutation sequence](https://github.com/hitzzc/go-leetcode/tree/master/permutation_sequence)
 #### [61. rotate list](https://github.com/hitzzc/go-leetcode/tree/master/rotate_list)
+#### [62. unique paths](https://github.com/hitzzc/go-leetcode/tree/master/unique_paths)
 
 
 

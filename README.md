@@ -61,6 +61,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [66. plus one](https://github.com/hitzzc/go-leetcode/tree/master/plus_one)
 #### [67. add binary](https://github.com/hitzzc/go-leetcode/tree/master/add_binary)
 #### [70. climbing stairs](https://github.com/hitzzc/go-leetcode/tree/master/climbing_stairs)
+#### [72. edit distance](https://github.com/hitzzc/go-leetcode/tree/master/edit_distance)
 
 
 

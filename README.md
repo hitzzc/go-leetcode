@@ -67,6 +67,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [75. sort colors](https://github.com/hitzzc/go-leetcode/tree/master/sort_colors)
 #### [76. minimum window substring](https://github.com/hitzzc/go-leetcode/tree/master/minimum_window_substring)
 #### [77. combinations](https://github.com/hitzzc/go-leetcode/tree/master/combinations)
+#### [78. subsets](https://github.com/hitzzc/go-leetcode/tree/master/subsets)
 
 
 

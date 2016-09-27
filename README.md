@@ -73,6 +73,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [81. Search in Rotated Sorted Array II](https://github.com/hitzzc/go-leetcode/tree/master/search_in_rotated_sorted_array_II)
 #### [82. remove duplicates from sorted list II](https://github.com/hitzzc/go-leetcode/tree/master/remove_duplicates_from_sorted_list_II)
 #### [83. remove duplicates from sorted list](https://github.com/hitzzc/go-leetcode/tree/master/remove_duplicates_from_sorted_list)
+#### [84. largest rectangle in histogram](https://github.com/hitzzc/go-leetcode/tree/master/largest_rectangle_in_histogram)
 
 
 

@@ -28,8 +28,8 @@ func subsets(nums []int) [][]int {
 					solution = append(solution, nums[currentIndex[childDepth]])
 					break
 				}
-				depth++
 			}
+			depth++
 		}
 		if finish || depth == maxDepth {
 			cp := make([]int, len(solution))
@@ -38,7 +38,6 @@ func subsets(nums []int) [][]int {
 			finish = false
 		}
 		if depth == -1 {
-			rets = append(rets, []int{})
 			break
 		}
 		depth--

@@ -71,6 +71,8 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [79. word search(not solved)](https://github.com/hitzzc/go-leetcode/tree/master/word_search)
 #### [80. Remove Duplicates from Sorted Array II](https://github.com/hitzzc/go-leetcode/tree/master/remove_duplicates_from_sorted_array_II)
 #### [81. Search in Rotated Sorted Array II](https://github.com/hitzzc/go-leetcode/tree/master/search_in_rotated_sorted_array_II)
+#### [82. remove duplicates from sorted list II](https://github.com/hitzzc/go-leetcode/tree/master/remove_duplicates_from_sorted_list_II)
+#### [83. remove duplicates from sorted list](https://github.com/hitzzc/go-leetcode/tree/master/remove_duplicates_from_sorted_list)
 
 
 

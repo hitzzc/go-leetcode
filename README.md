@@ -75,6 +75,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [83. remove duplicates from sorted list](https://github.com/hitzzc/go-leetcode/tree/master/remove_duplicates_from_sorted_list)
 #### [84. largest rectangle in histogram](https://github.com/hitzzc/go-leetcode/tree/master/largest_rectangle_in_histogram)
 #### [85. maximal rectangle](https://github.com/hitzzc/go-leetcode/tree/master/maximal_rectangle)
+#### [86. partition list](https://github.com/hitzzc/go-leetcode/tree/master/partition_list)
 
 
 

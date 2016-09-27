@@ -76,6 +76,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [84. largest rectangle in histogram](https://github.com/hitzzc/go-leetcode/tree/master/largest_rectangle_in_histogram)
 #### [85. maximal rectangle](https://github.com/hitzzc/go-leetcode/tree/master/maximal_rectangle)
 #### [86. partition list](https://github.com/hitzzc/go-leetcode/tree/master/partition_list)
+#### [88. merge sorted array](https://github.com/hitzzc/go-leetcode/tree/master/merge_sorted_array)
 
 
 

@@ -80,6 +80,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [89. gray code](https://github.com/hitzzc/go-leetcode/tree/master/gray_code)
 #### [90. subsets II](https://github.com/hitzzc/go-leetcode/tree/master/subsets_II)
 #### [91. decode ways](https://github.com/hitzzc/go-leetcode/tree/master/decode_ways)
+#### [92. reverse linked list II](https://github.com/hitzzc/go-leetcode/tree/master/reverse_linked_list_II)
 
 
 

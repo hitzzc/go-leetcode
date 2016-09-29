@@ -82,6 +82,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [91. decode ways](https://github.com/hitzzc/go-leetcode/tree/master/decode_ways)
 #### [92. reverse linked list II](https://github.com/hitzzc/go-leetcode/tree/master/reverse_linked_list_II)
 #### [93. Restore IP Addresses](https://github.com/hitzzc/go-leetcode/tree/master/restore_IP_addresses)
+#### [94. Binary Tree Inorder Traversal](https://github.com/hitzzc/go-leetcode/tree/master/binary_tree_inorder_traversal)
 
 
 

@@ -79,6 +79,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [88. merge sorted array](https://github.com/hitzzc/go-leetcode/tree/master/merge_sorted_array)
 #### [89. gray code](https://github.com/hitzzc/go-leetcode/tree/master/gray_code)
 #### [90. subsets II](https://github.com/hitzzc/go-leetcode/tree/master/subsets_II)
+#### [91. decode ways](https://github.com/hitzzc/go-leetcode/tree/master/decode_ways)
 
 
 

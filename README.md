@@ -85,6 +85,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [94. Binary Tree Inorder Traversal](https://github.com/hitzzc/go-leetcode/tree/master/binary_tree_inorder_traversal)
 #### [95. Unique Binary Search Trees II](https://github.com/hitzzc/go-leetcode/tree/master/unique_binary_search_trees_II)
 #### [96. Unique Binary Search Trees](https://github.com/hitzzc/go-leetcode/tree/master/unique_binary_search_trees)
+#### [98. validate binary search tree](https://github.com/hitzzc/go-leetcode/tree/master/validate_binary_search_tree)
 
 
 

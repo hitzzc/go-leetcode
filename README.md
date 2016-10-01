@@ -90,6 +90,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [101. symmetric tree](https://github.com/hitzzc/go-leetcode/tree/master/symmetric_tree)
 #### [102. Binary Tree Level Order Traversal](https://github.com/hitzzc/go-leetcode/tree/master/binary_tree_level_order_traversal)
 #### [103. Binary Tree Zigzag Level Order Traversal](https://github.com/hitzzc/go-leetcode/tree/master/binary_tree_zigzag_level_order_traversal)
+#### [104. maximum depth of binary tree](https://github.com/hitzzc/go-leetcode/tree/master/maximum_depth_of_binary_tree)
 
 
 

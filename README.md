@@ -92,7 +92,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [103. Binary Tree Zigzag Level Order Traversal](https://github.com/hitzzc/go-leetcode/tree/master/binary_tree_zigzag_level_order_traversal)
 #### [104. maximum depth of binary tree](https://github.com/hitzzc/go-leetcode/tree/master/maximum_depth_of_binary_tree)
 #### [105. construct binary tree from preorder and inorder traversal](https://github.com/hitzzc/go-leetcode/tree/master/construct_binary_tree_from_preorder_and_inorder_traversal)
-
+#### [106. construct binary tree from inorder and postorder traversal](https://github.com/hitzzc/go-leetcode/tree/master/construct_binary_tree_from_inorder_and_postorder_traversal)
 
 
 

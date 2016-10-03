@@ -96,6 +96,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [107. Binary Tree Level Order Traversal II](https://github.com/hitzzc/go-leetcode/tree/master/binary_tree_level_order_traversal_II)
 #### [108. Convert Sorted Array to Binary Search Tree](https://github.com/hitzzc/go-leetcode/tree/master/convert_sorted_array_to_binary_search_tree)
 #### [109. Convert Sorted List to Binary Search Tree](https://github.com/hitzzc/go-leetcode/tree/master/convert_sorted_list_to_binary_search_tree)
+#### [110. Balanced Binary Tree](https://github.com/hitzzc/go-leetcode/tree/master/balanced_bianry_tree)
 
 
 

@@ -98,6 +98,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [109. Convert Sorted List to Binary Search Tree](https://github.com/hitzzc/go-leetcode/tree/master/convert_sorted_list_to_binary_search_tree)
 #### [110. Balanced Binary Tree](https://github.com/hitzzc/go-leetcode/tree/master/balanced_bianry_tree)
 #### [111. minimum depth of binary tree](https://github.com/hitzzc/go-leetcode/tree/master/minimum_depth_of_binary_tree)
+#### [112. path sum](https://github.com/hitzzc/go-leetcode/tree/master/path_sum)
 
 
 

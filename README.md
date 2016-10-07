@@ -101,6 +101,8 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [112. path sum](https://github.com/hitzzc/go-leetcode/tree/master/path_sum)
 #### [113. path sum II](https://github.com/hitzzc/go-leetcode/tree/master/path_sum_II)
 #### [114. Flatten Binary Tree to Linked List](https://github.com/hitzzc/go-leetcode/tree/master/flatten_binary_tree_to_linked_list)
+#### [115. distinct subsequences](https://github.com/hitzzc/go-leetcode/tree/master/distinct_subsequences)
+
 
 
 

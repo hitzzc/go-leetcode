@@ -106,6 +106,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [117. Populating Next Right Pointers in Each Node II](https://github.com/hitzzc/go-leetcode/tree/master/populating_next_right_pointers_in_each_node_II)
 #### [118. pascal's triangle](https://github.com/hitzzc/go-leetcode/tree/master/pascals_triangle)
 #### [119. pascal's triangle II](https://github.com/hitzzc/go-leetcode/tree/master/pascals_triangle_II)
+#### [120. triangle](https://github.com/hitzzc/go-leetcode/tree/master/triangle)
 
 
 

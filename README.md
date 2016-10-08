@@ -107,6 +107,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [118. pascal's triangle](https://github.com/hitzzc/go-leetcode/tree/master/pascals_triangle)
 #### [119. pascal's triangle II](https://github.com/hitzzc/go-leetcode/tree/master/pascals_triangle_II)
 #### [120. triangle](https://github.com/hitzzc/go-leetcode/tree/master/triangle)
+#### [120. valid palindrome](https://github.com/hitzzc/go-leetcode/tree/master/valid_palindrome)
 
 
 

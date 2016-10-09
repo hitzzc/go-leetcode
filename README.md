@@ -113,6 +113,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [127. word ladder](https://github.com/hitzzc/go-leetcode/tree/master/word_ladder)
 #### [128. longest consecutive sequence](https://github.com/hitzzc/go-leetcode/tree/master/longest_consecutive_sequence)
 #### [129. sum root to leaf numbers](https://github.com/hitzzc/go-leetcode/tree/master/sum_root_to_leaf_numbers)
+#### [130. surrounded regions](https://github.com/hitzzc/go-leetcode/tree/master/surrounded_regions)
 
 
 

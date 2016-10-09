@@ -111,6 +111,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [125. valid palindrome](https://github.com/hitzzc/go-leetcode/tree/master/valid_palindrome)
 #### [126. word ladder II](https://github.com/hitzzc/go-leetcode/tree/master/word_ladder_II)
 #### [127. word ladder](https://github.com/hitzzc/go-leetcode/tree/master/word_ladder)
+#### [128. longest consecutive sequence](https://github.com/hitzzc/go-leetcode/tree/master/longest_consecutive_sequence)
 
 
 

@@ -121,6 +121,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [135. candy](https://github.com/hitzzc/go-leetcode/tree/master/candy)
 #### [136. single number](https://github.com/hitzzc/go-leetcode/tree/master/single_number)
 #### [137. single number II](https://github.com/hitzzc/go-leetcode/tree/master/single_number_II)
+#### [138. copy_list_with_random_pointer](https://github.com/hitzzc/go-leetcode/tree/master/copy_list_with_random_pointer)
 
 
 

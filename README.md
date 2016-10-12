@@ -123,6 +123,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [137. single number II](https://github.com/hitzzc/go-leetcode/tree/master/single_number_II)
 #### [138. copy_list_with_random_pointer](https://github.com/hitzzc/go-leetcode/tree/master/copy_list_with_random_pointer)
 #### [139. word break](https://github.com/hitzzc/go-leetcode/tree/master/word_break)
+#### [140. word break II](https://github.com/hitzzc/go-leetcode/tree/master/word_break II)
 
 
 

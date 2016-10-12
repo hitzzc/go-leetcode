@@ -126,6 +126,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [140. word break II](https://github.com/hitzzc/go-leetcode/tree/master/word_break_II)
 #### [141. Linked List Cycle](https://github.com/hitzzc/go-leetcode/tree/master/linked_list_cycle)
 #### [142. Linked List Cycle II](https://github.com/hitzzc/go-leetcode/tree/master/linked_list_cycle_II)
+#### [143. reorder list](https://github.com/hitzzc/go-leetcode/tree/master/reorder_list)
 
 
 

@@ -132,6 +132,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [146. LRU Cache](https://github.com/hitzzc/go-leetcode/tree/master/lru_cache)
 #### [147. insertion sort list](https://github.com/hitzzc/go-leetcode/tree/master/insertion_sort_list)
 #### [148. sort list](https://github.com/hitzzc/go-leetcode/tree/master/sort_list)
+#### [149. Max Points on a Line](https://github.com/hitzzc/go-leetcode/tree/master/max_points_on_a_line)
 
 
 

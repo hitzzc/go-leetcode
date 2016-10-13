@@ -131,6 +131,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [145. binary tree postorder traversal](https://github.com/hitzzc/go-leetcode/tree/master/binary_tree_postorder_traversal)
 #### [146. LRU Cache](https://github.com/hitzzc/go-leetcode/tree/master/lru_cache)
 #### [147. insertion sort list](https://github.com/hitzzc/go-leetcode/tree/master/insertion_sort_list)
+#### [148. sort list](https://github.com/hitzzc/go-leetcode/tree/master/sort_list)
 
 
 

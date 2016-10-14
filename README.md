@@ -133,6 +133,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [147. insertion sort list](https://github.com/hitzzc/go-leetcode/tree/master/insertion_sort_list)
 #### [148. sort list](https://github.com/hitzzc/go-leetcode/tree/master/sort_list)
 #### [149. Max Points on a Line](https://github.com/hitzzc/go-leetcode/tree/master/max_points_on_a_line)
+#### [150. evaluate reverse polish notation](https://github.com/hitzzc/go-leetcode/tree/master/evaluate_reverse_polish_notation)
 
 
 

@@ -137,6 +137,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [151. reverse words in a string](https://github.com/hitzzc/go-leetcode/tree/master/reverse_words_in_a_string)
 #### [152. maximum product subarray](https://github.com/hitzzc/go-leetcode/tree/master/maximum_product_subarray)
 #### [153. find minimum in rotated sorted array](https://github.com/hitzzc/go-leetcode/tree/master/find_minimum_in_rotated_sorted_array)
+#### [154. find minimum in rotated sorted array II](https://github.com/hitzzc/go-leetcode/tree/master/find_minimum_in_rotated_sorted_array_II)
 
 
 

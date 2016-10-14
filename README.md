@@ -140,6 +140,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [154. find minimum in rotated sorted array II](https://github.com/hitzzc/go-leetcode/tree/master/find_minimum_in_rotated_sorted_array_II)
 #### [155. Min Stack](https://github.com/hitzzc/go-leetcode/tree/master/min_stack)
 #### [160. Intersection of Two Linked Lists](https://github.com/hitzzc/go-leetcode/tree/master/intersection_of_two_linked_lists)
+#### [162. Find Peak Element](https://github.com/hitzzc/go-leetcode/tree/master/find_peak_element)
 
 
 

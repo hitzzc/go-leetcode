@@ -135,6 +135,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [149. Max Points on a Line](https://github.com/hitzzc/go-leetcode/tree/master/max_points_on_a_line)
 #### [150. evaluate reverse polish notation](https://github.com/hitzzc/go-leetcode/tree/master/evaluate_reverse_polish_notation)
 #### [151. reverse words in a string](https://github.com/hitzzc/go-leetcode/tree/master/reverse_words_in_a_string)
+#### [152. maximum product subarray](https://github.com/hitzzc/go-leetcode/tree/master/maximum_product_subarray)
 
 
 

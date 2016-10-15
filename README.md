@@ -155,6 +155,9 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [187. Repeated DNA Sequences](https://github.com/hitzzc/go-leetcode/tree/master/repeated_dna_sequences)
 #### [189. Rotate Array](https://github.com/hitzzc/go-leetcode/tree/master/rotate_array)
 #### [190. Reverse Bits](https://github.com/hitzzc/go-leetcode/tree/master/reverse_bits)
+#### [191. Number of 1 Bits](https://github.com/hitzzc/go-leetcode/tree/master/number_of_1bits)
+#### [198. House Robber](https://github.com/hitzzc/go-leetcode/tree/master/house_robber)
+
 
 
 

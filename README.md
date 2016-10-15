@@ -146,6 +146,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [166. Fraction to Recurring Decimal](https://github.com/hitzzc/go-leetcode/tree/master/fraction_to_recurring_decimal)
 #### [167. Two Sum II](https://github.com/hitzzc/go-leetcode/tree/master/two_sum_II)
 #### [168. Excel Sheet Column Title](https://github.com/hitzzc/go-leetcode/tree/master/excel_sheet_column_title)
+#### [169. Majority Element](https://github.com/hitzzc/go-leetcode/tree/master/majority_element)
 
 
 

@@ -152,6 +152,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [173. Binary Search Tree Iterator](https://github.com/hitzzc/go-leetcode/tree/master/binary_search_tree_iterator)
 #### [174. Dungeon Game](https://github.com/hitzzc/go-leetcode/tree/master/dungeon_game)
 #### [179. Largest Number](https://github.com/hitzzc/go-leetcode/tree/master/largest_number)
+#### [187. Repeated DNA Sequences](https://github.com/hitzzc/go-leetcode/tree/master/repeated_dna_sequences)
 
 
 

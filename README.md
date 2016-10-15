@@ -143,6 +143,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [162. Find Peak Element](https://github.com/hitzzc/go-leetcode/tree/master/find_peak_element)
 #### [164. Maximum Gap](https://github.com/hitzzc/go-leetcode/tree/master/maximum_gap)
 #### [165. compare version numbers](https://github.com/hitzzc/go-leetcode/tree/master/compare_version_numbers)
+#### [166. Fraction to Recurring Decimal](https://github.com/hitzzc/go-leetcode/tree/master/fraction_to_recurring_decimal)
 
 
 

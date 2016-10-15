@@ -161,6 +161,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [200. Number of Islands](https://github.com/hitzzc/go-leetcode/tree/master/number_of_islands)
 #### [201. Bitwise AND of Numbers Range](https://github.com/hitzzc/go-leetcode/tree/master/bitwise_AND_of_numbers_range)
 #### [202. Happy Number](https://github.com/hitzzc/go-leetcode/tree/master/happy_number)
+#### [203. Remove Linked List Elements](https://github.com/hitzzc/go-leetcode/tree/master/remove_linked_list_elements)
 
 
 

@@ -148,6 +148,8 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [168. Excel Sheet Column Title](https://github.com/hitzzc/go-leetcode/tree/master/excel_sheet_column_title)
 #### [169. Majority Element](https://github.com/hitzzc/go-leetcode/tree/master/majority_element)
 #### [171. Excel Sheet Column Number](https://github.com/hitzzc/go-leetcode/tree/master/excel_sheet_column_number)
+#### [172. Factorial Trailing Zeroes](https://github.com/hitzzc/go-leetcode/tree/master/factorial_trailing_zeroes)
+
 
 
 

@@ -167,6 +167,10 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [206. Reverse Linked List](https://github.com/hitzzc/go-leetcode/tree/master/reverse_linked_list)
 #### [207. Course Schedule](https://github.com/hitzzc/go-leetcode/tree/master/course_schedule)
 #### [208. Implement Trie (Prefix Tree)](https://github.com/hitzzc/go-leetcode/tree/master/implement_trie)
+#### [209. Minimum Size Subarray Sum](https://github.com/hitzzc/go-leetcode/tree/master/minimum_size_subarray_sum)
+#### [210. Course Schedule II](https://github.com/hitzzc/go-leetcode/tree/master/course_schedule_II)
+#### [211. Add and Search Word - Data structure design](https://github.com/hitzzc/go-leetcode/tree/master/add_and_search_word)
+#### [213. House Robber II](https://github.com/hitzzc/go-leetcode/tree/master/add_and_search_word)
 
 
 

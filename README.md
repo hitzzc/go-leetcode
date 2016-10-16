@@ -165,6 +165,8 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [204. Count Primes](https://github.com/hitzzc/go-leetcode/tree/master/count_primes)
 #### [205. Isomorphic Strings](https://github.com/hitzzc/go-leetcode/tree/master/isomorphic_strings)
 #### [206. Reverse Linked List](https://github.com/hitzzc/go-leetcode/tree/master/reverse_linked_list)
+#### [207. Course Schedule](https://github.com/hitzzc/go-leetcode/tree/master/course_schedule)
+#### [208. Implement Trie (Prefix Tree)](https://github.com/hitzzc/go-leetcode/tree/master/implement_trie)
 
 
 

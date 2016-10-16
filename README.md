@@ -172,6 +172,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [211. Add and Search Word - Data structure design](https://github.com/hitzzc/go-leetcode/tree/master/add_and_search_word)
 #### [213. House Robber II](https://github.com/hitzzc/go-leetcode/tree/master/add_and_search_word)
 #### [214. Shortest Palindrome (unsolved)](https://github.com/hitzzc/go-leetcode/tree/master/shortest_palindrome)
+#### [215. Kth Largest Element in an Array](https://github.com/hitzzc/go-leetcode/tree/master/kth_largest_element_in_an_array)
 
 
 

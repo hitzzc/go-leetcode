@@ -185,6 +185,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [226. Invert Binary Tree](https://github.com/hitzzc/go-leetcode/tree/master/invert_binary_tree)
 #### [227. Basic Calculator II](https://github.com/hitzzc/go-leetcode/tree/master/basic_calculator_II)
 #### [228. Summary Ranges](https://github.com/hitzzc/go-leetcode/tree/master/summary_ranges)
+#### [229. Majority Element II](https://github.com/hitzzc/go-leetcode/tree/master/majority_element_II)
 
 
 

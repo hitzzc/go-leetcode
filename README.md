@@ -175,9 +175,10 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [215. Kth Largest Element in an Array](https://github.com/hitzzc/go-leetcode/tree/master/kth_largest_element_in_an_array)
 #### [216. Combination Sum III](https://github.com/hitzzc/go-leetcode/tree/master/combinations_sum_III)
 #### [217. Contains Duplicate](https://github.com/hitzzc/go-leetcode/tree/master/contains_duplicate)
-#### [218. Contains Duplicate II](https://github.com/hitzzc/go-leetcode/tree/master/contains_duplicate_II)
-#### [219. Contains Duplicate III (unsolved)](https://github.com/hitzzc/go-leetcode/tree/master/contains_duplicate_III)
+#### [219. Contains Duplicate II](https://github.com/hitzzc/go-leetcode/tree/master/contains_duplicate_II)
+#### [220. Contains Duplicate III (unsolved)](https://github.com/hitzzc/go-leetcode/tree/master/contains_duplicate_III)
 #### [221. Maximal Square](https://github.com/hitzzc/go-leetcode/tree/master/maximal_square)
+#### [222. Count Complete Tree Nodes](https://github.com/hitzzc/go-leetcode/tree/master/count_complete_tree_nodes)
 
 
 

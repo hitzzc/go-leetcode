@@ -177,6 +177,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [217. Contains Duplicate](https://github.com/hitzzc/go-leetcode/tree/master/contains_duplicate)
 #### [218. Contains Duplicate II](https://github.com/hitzzc/go-leetcode/tree/master/contains_duplicate_II)
 #### [219. Contains Duplicate III (unsolved)](https://github.com/hitzzc/go-leetcode/tree/master/contains_duplicate_III)
+#### [221. Maximal Square](https://github.com/hitzzc/go-leetcode/tree/master/maximal_square)
 
 
 

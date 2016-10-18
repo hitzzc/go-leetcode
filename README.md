@@ -188,6 +188,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [229. Majority Element II](https://github.com/hitzzc/go-leetcode/tree/master/majority_element_II)
 #### [230. Kth Smallest Element in a BST](https://github.com/hitzzc/go-leetcode/tree/master/kth_smallest_element_in_a_BST)
 #### [231. Power of Two](https://github.com/hitzzc/go-leetcode/tree/master/power_of_two)
+#### [232. Implement Queue using Stacks](https://github.com/hitzzc/go-leetcode/tree/master/implement_queue_using_stacks)
 
 
 

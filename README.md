@@ -190,6 +190,8 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [231. Power of Two](https://github.com/hitzzc/go-leetcode/tree/master/power_of_two)
 #### [232. Implement Queue using Stacks](https://github.com/hitzzc/go-leetcode/tree/master/implement_queue_using_stacks)
 #### [234. Palindrome Linked List](https://github.com/hitzzc/go-leetcode/tree/master/palindrome_lined_list)
+#### [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/hitzzc/go-leetcode/tree/master/lowest_common_ancestor_of_a_binary_search_tree)
+#### [235. Lowest Common Ancestor of a Binary Tree](https://github.com/hitzzc/go-leetcode/tree/master/lowest_common_ancestor_of_a_binary_tree)
 
 
 

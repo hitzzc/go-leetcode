@@ -9,10 +9,10 @@ func searchMatrix(matrix [][]int, target int) bool {
 		if matrix[row][col] == target {
 			return true
 		}
-		for row <= len(matrix)-1 && matrix[row][col] < target {
+		for row <= len(matrix)-1 && col >= 0 && matrix[row][col] < target {
 			row++
 		}
-		for col >= 0 && matrix[row][col] > target {
+		for row <= len(matrix)-1 && col >= 0 && matrix[row][col] > target {
 			col--
 		}
 	}

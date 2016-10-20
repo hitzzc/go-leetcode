@@ -199,6 +199,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [241. Different Ways to Add Parentheses](https://github.com/hitzzc/go-leetcode/tree/master/different_ways_to_add_parentheses)
 #### [242. Valid Anagram](https://github.com/hitzzc/go-leetcode/tree/master/valid_anagram)
 #### [257. Binary Tree Paths](https://github.com/hitzzc/go-leetcode/tree/master/binary_tree_paths)
+#### [258. Add Digits](https://github.com/hitzzc/go-leetcode/tree/master/add_digits)
 
 
 

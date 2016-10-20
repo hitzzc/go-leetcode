@@ -197,6 +197,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [239. Sliding Window Maximum](https://github.com/hitzzc/go-leetcode/tree/master/sliding_window_maximum)
 #### [240. Search a 2D Matrix II](https://github.com/hitzzc/go-leetcode/tree/master/search_a_2D_matrix_II)
 #### [241. Different Ways to Add Parentheses](https://github.com/hitzzc/go-leetcode/tree/master/different_ways_to_add_parentheses)
+#### [242. Valid Anagram](https://github.com/hitzzc/go-leetcode/tree/master/valid_anagram)
 
 
 

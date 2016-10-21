@@ -202,6 +202,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [258. Add Digits](https://github.com/hitzzc/go-leetcode/tree/master/add_digits)
 #### [260. Single Number III](https://github.com/hitzzc/go-leetcode/tree/master/single_number_III)
 #### [263. Ugly Number](https://github.com/hitzzc/go-leetcode/tree/master/ugly_number)
+#### [264. Ugly Number II](https://github.com/hitzzc/go-leetcode/tree/master/ugly_number_II)
 
 
 

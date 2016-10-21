@@ -203,6 +203,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [260. Single Number III](https://github.com/hitzzc/go-leetcode/tree/master/single_number_III)
 #### [263. Ugly Number](https://github.com/hitzzc/go-leetcode/tree/master/ugly_number)
 #### [264. Ugly Number II](https://github.com/hitzzc/go-leetcode/tree/master/ugly_number_II)
+#### [268. Missing Number](https://github.com/hitzzc/go-leetcode/tree/master/missing_number)
 
 
 

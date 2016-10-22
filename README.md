@@ -206,6 +206,8 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [268. Missing Number](https://github.com/hitzzc/go-leetcode/tree/master/missing_number)
 #### [278. First Bad Version](https://github.com/hitzzc/go-leetcode/tree/master/missing_number)
 #### [279. Perfect Squares](https://github.com/hitzzc/go-leetcode/tree/master/perfect_squares)
+#### [282. Expression Add Operators](https://github.com/hitzzc/go-leetcode/tree/master/expression_add_operators)
+#### [283. Move Zeroes](https://github.com/hitzzc/go-leetcode/tree/master/expression_add_operators)
 
 
 

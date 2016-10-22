@@ -204,6 +204,8 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [263. Ugly Number](https://github.com/hitzzc/go-leetcode/tree/master/ugly_number)
 #### [264. Ugly Number II](https://github.com/hitzzc/go-leetcode/tree/master/ugly_number_II)
 #### [268. Missing Number](https://github.com/hitzzc/go-leetcode/tree/master/missing_number)
+#### [278. First Bad Version](https://github.com/hitzzc/go-leetcode/tree/master/missing_number)
+#### [279. Perfect Squares](https://github.com/hitzzc/go-leetcode/tree/master/perfect_squares)
 
 
 

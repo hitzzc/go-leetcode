@@ -211,6 +211,8 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [284. Peeking Iterator](https://github.com/hitzzc/go-leetcode/tree/master/peeking_iterator)
 #### [287. Find the Duplicate Number](https://github.com/hitzzc/go-leetcode/tree/master/find_the_duplicate_number)
 #### [290. Word Pattern](https://github.com/hitzzc/go-leetcode/tree/master/word_pattern)
+#### [292. Nim Game](https://github.com/hitzzc/go-leetcode/tree/master/nim_game)
+#### [295. Find Median from Data Stream](https://github.com/hitzzc/go-leetcode/tree/master/find_median_from_data_stream)
 
 
 

@@ -210,6 +210,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [283. Move Zeroes](https://github.com/hitzzc/go-leetcode/tree/master/expression_add_operators)
 #### [284. Peeking Iterator](https://github.com/hitzzc/go-leetcode/tree/master/peeking_iterator)
 #### [287. Find the Duplicate Number](https://github.com/hitzzc/go-leetcode/tree/master/find_the_duplicate_number)
+#### [290. Word Pattern](https://github.com/hitzzc/go-leetcode/tree/master/word_pattern)
 
 
 

@@ -1,5 +1,7 @@
 #include <vector>
 #include <iostream>
+#include <priority_queue>
+#include <functional>
 using namespace std;
 
 class Heap {
@@ -61,10 +63,9 @@ int min(int i, int j) {
 }
 
 class MedianFinder {
-	Heap max_heap;
-	Heap min_heap;
+	priority_queue<int> max_heap;
+	priority_queue<int, vector<int>, greater<int>> min_heap;
 public:
-	MedianFinder(): max_heap(Heap(max)), min_heap(Heap(min)){}
     // Adds a number into the data structure.
     void addNum(int num) {
         if (max_heap.empty() || num <= max_heap.top()) {
@@ -73,11 +74,13 @@ public:
         	min_heap.push(num);
         }
         if (max_heap.size() > min_heap.size()+1){
-        	int top = max_heap.pop();
+        	int top = max_heap.top();
+        	max_heap.pop();
         	min_heap.push(top);
         }
         if (min_heap.size() > max_heap.size()) {
-        	int top = min_heap.pop();
+        	int top = min_heap.top();
+        	min_heap.pop();
         	max_heap.push(top);
         }
         return;
@@ -85,11 +88,7 @@ public:
 
     // Returns the median of current data stream
     double findMedian() {
-    	if (max_heap.size() == min_heap.size())
-    		return ((max_heap.top()+min_heap.top())/2.0);
-    	if (max_heap.size() > min_heap.size())
-    		return max_heap.top();
-    	return min_heap.top();
+    	return max_heap.size() == min_heap.size() ? (max_heap.top()+min_heap.top())/2.0 : max_heap.top();
     }
 };
 

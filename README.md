@@ -213,6 +213,8 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [290. Word Pattern](https://github.com/hitzzc/go-leetcode/tree/master/word_pattern)
 #### [292. Nim Game](https://github.com/hitzzc/go-leetcode/tree/master/nim_game)
 #### [295. Find Median from Data Stream](https://github.com/hitzzc/go-leetcode/tree/master/find_median_from_data_stream)
+#### [297. Serialize and Deserialize Binary Tree](https://github.com/hitzzc/go-leetcode/tree/master/serialize_and_deserialize_binary_tree)
+#### [299. Bulls and Cows](https://github.com/hitzzc/go-leetcode/tree/master/bulls_and_cows)
 
 
 

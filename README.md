@@ -217,6 +217,9 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [299. Bulls and Cows](https://github.com/hitzzc/go-leetcode/tree/master/bulls_and_cows)
 #### [300. Longest Increasing Subsequence](https://github.com/hitzzc/go-leetcode/tree/master/longest_increasing_subsequence)
 #### [301. Remove Invalid Parentheses](https://github.com/hitzzc/go-leetcode/tree/master/remove_invalid_parentheses)
+#### [303. Range Sum Query - Immutable](https://github.com/hitzzc/go-leetcode/tree/master/range_sum_query_immutable)
+#### [304. Range Sum Query 2D - Immutable](https://github.com/hitzzc/go-leetcode/tree/master/range_sum_query_immutable)
+
 
 
 

@@ -226,6 +226,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [306. Additive Number](https://github.com/hitzzc/go-leetcode/tree/master/additive_number)
 #### [307. Range Sum Query - Mutable](https://github.com/hitzzc/go-leetcode/tree/master/range_sum_query_mutable)
 #### [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/hitzzc/go-leetcode/tree/master/best_time_to_buy_and_sell_stock_with_cooldown)
+#### [310. Minimum Height Trees](https://github.com/hitzzc/go-leetcode/tree/master/minimum_height_trees)
 
 
 

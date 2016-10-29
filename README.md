@@ -228,6 +228,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/hitzzc/go-leetcode/tree/master/best_time_to_buy_and_sell_stock_with_cooldown)
 #### [312. Burst Balloons](https://github.com/hitzzc/go-leetcode/tree/master/burst_balloons)
 #### [313. Super Ugly Number](https://github.com/hitzzc/go-leetcode/tree/master/super_ugly_number)
+#### [315. Count of Smaller Numbers After Self](https://github.com/hitzzc/go-leetcode/tree/master/count_of_smaller_numbers_after_self)
 
 
 

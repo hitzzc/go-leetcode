@@ -230,6 +230,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [313. Super Ugly Number](https://github.com/hitzzc/go-leetcode/tree/master/super_ugly_number)
 #### [315. Count of Smaller Numbers After Self](https://github.com/hitzzc/go-leetcode/tree/master/count_of_smaller_numbers_after_self)
 #### [316. Remove Duplicate Letters](https://github.com/hitzzc/go-leetcode/tree/master/remove_duplicate_letters)
+#### [318. Maximum Product of Word Lengths  ](https://github.com/hitzzc/go-leetcode/tree/master/maximum_product_of_word_lengths)
 
 
 

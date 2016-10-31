@@ -236,6 +236,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [326. Power of Three](https://github.com/hitzzc/go-leetcode/tree/master/power_of_three)
 #### [327. Count of Range Sum](https://github.com/hitzzc/go-leetcode/tree/master/count_of_range_sum)
 #### [329. Longest Increasing Path in a Matrix](https://github.com/hitzzc/go-leetcode/tree/master/longest_increasing_path_in_a_matrix)
+#### [331. Verify Preorder Serialization of a Binary Tree](https://github.com/hitzzc/go-leetcode/tree/master/verify_preorder_serialization_of_a_binary_tree)
 
 
 

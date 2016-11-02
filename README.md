@@ -251,6 +251,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [347. Top K Frequent Elements](https://github.com/hitzzc/go-leetcode/tree/master/top_k_frequent_elements)
 #### [349. Intersection of Two Arrays](https://github.com/hitzzc/go-leetcode/tree/master/intersection_of_two_arrays)
 #### [350. Intersection of Two Arrays II](https://github.com/hitzzc/go-leetcode/tree/master/intersection_of_two_arrays_II)
+#### [354. Russian Doll Envelopes](https://github.com/hitzzc/go-leetcode/tree/master/russian_doll_envelopes)
 
 
 

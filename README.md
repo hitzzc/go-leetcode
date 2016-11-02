@@ -252,6 +252,8 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [349. Intersection of Two Arrays](https://github.com/hitzzc/go-leetcode/tree/master/intersection_of_two_arrays)
 #### [350. Intersection of Two Arrays II](https://github.com/hitzzc/go-leetcode/tree/master/intersection_of_two_arrays_II)
 #### [354. Russian Doll Envelopes](https://github.com/hitzzc/go-leetcode/tree/master/russian_doll_envelopes)
+#### [367. Valid Perfect Square](https://github.com/hitzzc/go-leetcode/tree/master/valid_perfect_square)
+#### [368. Largest Divisible Subset](https://github.com/hitzzc/go-leetcode/tree/master/largest_divisible_subset)
 
 
 

@@ -241,6 +241,16 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [334. Increasing Triplet Subsequence](https://github.com/hitzzc/go-leetcode/tree/master/increasing_triplet_subsequence)
 #### [335. Self Crossing](https://github.com/hitzzc/go-leetcode/tree/master/self_crossing)
 #### [336. Palindrome Pairs](https://github.com/hitzzc/go-leetcode/tree/master/palindrome_pairs)
+#### [337. House Robber III](https://github.com/hitzzc/go-leetcode/tree/master/house_robber_III)
+#### [338. Counting Bits](https://github.com/hitzzc/go-leetcode/tree/master/counting_bits)
+#### [341. Flatten Nested List Iterator](https://github.com/hitzzc/go-leetcode/tree/master/flatten_nested_list_iterator)
+#### [342. Power of Four](https://github.com/hitzzc/go-leetcode/tree/master/power_of_four)
+#### [343. Integer Break](https://github.com/hitzzc/go-leetcode/tree/master/integer_break)
+#### [344. Reverse String](https://github.com/hitzzc/go-leetcode/tree/master/reverse_string)
+#### [345. Reverse Vowels of a String](https://github.com/hitzzc/go-leetcode/tree/master/reverse_vowels_of_a_string)
+#### [347. Top K Frequent Elements](https://github.com/hitzzc/go-leetcode/tree/master/top_k_frequent_elements)
+#### [349. Intersection of Two Arrays](https://github.com/hitzzc/go-leetcode/tree/master/intersection_of_two_arrays)
+#### [350. Intersection of Two Arrays II](https://github.com/hitzzc/go-leetcode/tree/master/intersection_of_two_arrays_II)
 
 
 

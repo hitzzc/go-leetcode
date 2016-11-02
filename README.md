@@ -240,6 +240,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [332. Reconstruct Itinerary](https://github.com/hitzzc/go-leetcode/tree/master/reconstruct_ltinerary)
 #### [334. Increasing Triplet Subsequence](https://github.com/hitzzc/go-leetcode/tree/master/increasing_triplet_subsequence)
 #### [335. Self Crossing](https://github.com/hitzzc/go-leetcode/tree/master/self_crossing)
+#### [336. Palindrome Pairs](https://github.com/hitzzc/go-leetcode/tree/master/palindrome_pairs)
 
 
 

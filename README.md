@@ -256,6 +256,9 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [368. Largest Divisible Subset](https://github.com/hitzzc/go-leetcode/tree/master/largest_divisible_subset)
 #### [371. Sum of Two Integers](https://github.com/hitzzc/go-leetcode/tree/master/sum_of_two_integers)
 #### [373. Find K Pairs with Smallest Sums](https://github.com/hitzzc/go-leetcode/tree/master/find_k_pairs_with_smallest_sums)
+#### [374. Guess Number Higher or Lower](https://github.com/hitzzc/go-leetcode/tree/master/guess_number_higher_or_lower)
+#### [375. Guess Number Higher or Lower II](https://github.com/hitzzc/go-leetcode/tree/master/guess_number_higher_or_lower_II)
+#### [376. Wiggle Subsequence](https://github.com/hitzzc/go-leetcode/tree/master/wiggle_subsequence)
 
 
 

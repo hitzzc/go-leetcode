@@ -259,6 +259,8 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [374. Guess Number Higher or Lower](https://github.com/hitzzc/go-leetcode/tree/master/guess_number_higher_or_lower)
 #### [375. Guess Number Higher or Lower II](https://github.com/hitzzc/go-leetcode/tree/master/guess_number_higher_or_lower_II)
 #### [376. Wiggle Subsequence](https://github.com/hitzzc/go-leetcode/tree/master/wiggle_subsequence)
+#### [377. Combination Sum IV](https://github.com/hitzzc/go-leetcode/tree/master/combination_sum_IV)
+#### [378. Kth Smallest Element in a Sorted Matrix](https://github.com/hitzzc/go-leetcode/tree/master/kth_smallest_element_in_a_sorted_matrix)
 
 
 

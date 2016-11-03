@@ -266,6 +266,13 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [386. Lexicographical Numbers](https://github.com/hitzzc/go-leetcode/tree/master/lexicographical_numbers)
 #### [387. First Unique Character in a String](https://github.com/hitzzc/go-leetcode/tree/master/first_unique_character_in_a_string)
 #### [388. Longest Absolute File Path](https://github.com/hitzzc/go-leetcode/tree/master/longest_absolute_file_path)
+#### [389. Find the Difference](https://github.com/hitzzc/go-leetcode/tree/master/find_the_difference)
+#### [390. Elimination Game](https://github.com/hitzzc/go-leetcode/tree/master/elimination_game)
+#### [391. Is Subsequence](https://github.com/hitzzc/go-leetcode/tree/master/is_subsequence)
+#### [394. Decode String](https://github.com/hitzzc/go-leetcode/tree/master/decode_string)
+#### [395. Longest Substring with At Least K Repeating Characters](https://github.com/hitzzc/go-leetcode/tree/master/longest_substring_with_at_least_k_repeating_characters)
+#### [396. Rotate Function](https://github.com/hitzzc/go-leetcode/tree/master/rotate_function)
+#### [400. Nth Digit](https://github.com/hitzzc/go-leetcode/tree/master/nth_digit)
 
 
 

@@ -11,6 +11,7 @@ Golang solution for leetcode. For each problem, there is a simple *_test.go to t
 #### [7. reverse integer](https://github.com/hitzzc/go-leetcode/tree/master/reverse_integer)
 #### [8. string to integer](https://github.com/hitzzc/go-leetcode/tree/master/string_to_integer)
 #### [9. palindrome number](https://github.com/hitzzc/go-leetcode/tree/master/palindrome_number)
+#### [10. Regular Expression Matching](https://github.com/hitzzc/go-leetcode/tree/master/regular_expression_matching)
 #### [11. container with most water](https://github.com/hitzzc/go-leetcode/tree/master/container_with_most_water)
 #### [12. integer to roman](https://github.com/hitzzc/go-leetcode/tree/master/integer_to_roman)
 #### [13. roman to integer](https://github.com/hitzzc/go-leetcode/tree/master/roman_to_integer)

@@ -12,17 +12,12 @@ func helper(nums []int, left, right int) int {
 		return nums[left]
 	}
 	mid := left + (right-left)/2
-	if mid == left {
-		return helper(nums, left+1, right)
-	}
 	if nums[left] == nums[mid] && nums[mid] == nums[right] {
-		for ; left < right && nums[left] == nums[left+1]; left++ {
-		}
-		for ; left < right && nums[right] == nums[right-1]; right-- {
+		for ; left < right && nums[left] == nums[right]; left++ {
 		}
 		return helper(nums, left, right)
 	}
-	if nums[left] <= nums[mid] && nums[mid] > nums[right] {
+	if nums[left] <= nums[mid] {
 		return helper(nums, mid+1, right)
 	}
 	return helper(nums, left, mid)
